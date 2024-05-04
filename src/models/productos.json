@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "title": "producto genérico n°1",
+    "description": "descripción genérica",
+    "price": 150,
+    "img": "Sin imagen",
+    "code": "abc123",
+    "stock": 30
+  },
+  {
+    "id": 2,
+    "title": "producto genérico n°2",
+    "description": "descripción genérica",
+    "price": 250,
+    "img": "sin imagen",
+    "code": "abc124",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "producto genérico n°3",
+    "description": "descripción genérica",
+    "price": 150,
+    "img": "sin imagen",
+    "code": "abc125",
+    "stock": 22
+  },
+  {
+    "id": 4,
+    "title": "producto genérico n°4",
+    "description": "descripción genérica",
+    "price": 198,
+    "img": "sin imagen",
+    "code": "abc126",
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "title": "producto genérico n°5",
+    "description": "descripción genérica",
+    "price": 450,
+    "img": "sin imagen",
+    "code": "abc127",
+    "stock": 29
+  },
+  {
+    "id": 6,
+    "title": "producto genérico n°6",
+    "description": "descripción genérica",
+    "price": 290,
+    "img": "sin imagen",
+    "code": "abc128",
+    "stock": 90
+  },
+  {
+    "id": 7,
+    "title": "producto genérico n°7",
+    "description": "descripción genérica",
+    "price": 600,
+    "img": "sin imagen",
+    "code": "abc129",
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "title": "producto genérico n°8",
+    "description": "descripción genérica",
+    "price": 732,
+    "img": "sin imagen",
+    "code": "abc131",
+    "stock": 22
+  },
+  {
+    "id": 9,
+    "title": "producto genérico n°9",
+    "description": "descripción genérica",
+    "price": 666,
+    "img": "sin imagen",
+    "code": "abc132",
+    "stock": 1
+  },
+  {
+    "id": 10,
+    "title": "producto genérico n°10",
+    "description": "descripción genérica",
+    "price": 9999,
+    "img": "sin imagen",
+    "code": "abc133",
+    "stock": 2
+  },
+  {
+    "id": 11,
+    "title": "Primer producto de prueba, método POST",
+    "description": "Descripción obligatoria",
+    "code": "np002",
+    "price": 1000,
+    "stock": 50,
+    "category": "General",
+    "thumbnail": [],
+    "status": true
+  },
+  {
+    "id": 12,
+    "title": "Segundo producto de prueba, actualizado con método PUT",
+    "description": "Descripción obligatoria",
+    "code": "np001",
+    "price": 1000,
+    "stock": 50,
+    "category": "General",
+    "thumbnail": [],
+    "status": true
+  },
+  {
+    "id": 13,
+    "title": "Producto de prueba nuevo estando en línea",
+    "description": "el que no se pasa",
+    "code": "np003",
+    "price": 250,
+    "stock": 30,
+    "category": "Nueva Categoría",
+    "thumbnail": "sin imagen",
+    "status": true
+  },
+  {
+    "id": 14,
+    "title": "Producto de prueba nuevo, no estando en línea",
+    "description": "el que no se pasa",
+    "code": "np004",
+    "price": 2950,
+    "stock": 30,
+    "category": "Nueva Categoría",
+    "thumbnail": "sin imagen",
+    "status": true
+  }
+]
